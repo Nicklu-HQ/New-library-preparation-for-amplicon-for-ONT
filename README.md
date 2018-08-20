@@ -1,5 +1,38 @@
 # New-library-preparation-for-amplicon-for-ONT
 
-a new library preparation for amplicon to achieve high accuracy on ONT sequencer, just like ‘2D’ or ‘4D’
+  Here we are glad to introduce a new library preparation for amplicon sequencing on ONT. The final products have tandem repeat sequences which can improve the accuracy after consensus. The number of repeats could be decided as 2,4 or and so on.  
+  
+  The new method base on the RPA (Recombinase Polymerase Amplification)
+  
+  Briefly speaking:
+  
+1.	Get 2D:  The first amplification with one loop primer and one liner primer. The second amplification with only one liner primer.
 
+2.	Get 4D:  The first amplification with two loop primers. The second amplification with only one loop primer.
+
+3.	Get 2nD:  repeat with add a new Y adaptor. 
+
+
+Figure-2D:
+
+
+
+Figure-4D:
+
+
+
+
+  This method is :
+
+1.	Simple:       with two primers and isothermal amplification
+
+2.	Fast:         about 40mins (the step for PCR could be replaced)  
+
+3.	Compatible:   the amplicon without branch (not like rolling circle amplification, RCA) can be compatible with ligation sequencing kit. And in the future with a modified primer, the amplicon may be compatible with rapid sequencing kit
+
+4.	Extendable:   the number of repeats could be decided to balance the accuracy and output.
+
+  
+  
+  we patented this technology, but you are welcome to try this method for basic research not for commercial use.
 
