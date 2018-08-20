@@ -14,12 +14,20 @@
 
 
 Figure-2D:
-![Figure-2D](https://github.com/Nicklu-HQ/New-library-preparation-for-amplicon-for-ONT/blob/master/picture/图2_1.JPG)
-![Figure-2D](https://github.com/Nicklu-HQ/New-library-preparation-for-amplicon-for-ONT/blob/master/picture/%E5%9B%BE2_2.JPG)
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+![Figure-2D1](https://github.com/Nicklu-HQ/New-library-preparation-for-amplicon-for-ONT/blob/master/picture/图2_1.JPG)
+
+![Figure-2D2](https://github.com/Nicklu-HQ/New-library-preparation-for-amplicon-for-ONT/blob/master/picture/%E5%9B%BE2_2.JPG)
 
 
 
 Figure-4D:
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+![Figure-4D1](https://github.com/Nicklu-HQ/New-library-preparation-for-amplicon-for-ONT/blob/master/picture/%E5%9B%BE3.JPG)
+
+![Figure-4D2](https://github.com/Nicklu-HQ/New-library-preparation-for-amplicon-for-ONT/blob/master/picture/%E5%9B%BE4.JPG)
 
 
 
