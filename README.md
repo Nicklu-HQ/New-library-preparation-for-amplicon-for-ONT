@@ -1,4 +1,5 @@
-# Raw-Current-Simulator-for-ONT
-Simulate current signal on nanopore with an artificial DNA sequence(a deep-learn generator)
+# New-library-preparation-for-amplicon-for-ONT
 
-tensorflow
+a new library preparation for amplicon to achieve high accuracy on ONT sequencer, just like ‘2D’ or ‘4D’
+
+
