@@ -14,6 +14,8 @@
 
 
 Figure-2D:
+![Figure-2D](https://github.com/Nicklu-HQ/New-library-preparation-for-amplicon-for-ONT/blob/master/picture/图2_1.JPG)
+![Figure-2D](https://github.com/Nicklu-HQ/New-library-preparation-for-amplicon-for-ONT/blob/master/picture/%E5%9B%BE2_2.JPG)
 
 
 
